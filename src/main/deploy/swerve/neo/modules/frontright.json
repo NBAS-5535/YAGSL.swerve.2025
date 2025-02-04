@@ -4,24 +4,24 @@
       "left": 11.75
     },
     "drive": {
-      "type": "sparkmax_neo",
-      "id": 3,
-      "canbus": "canivore"
+      "type": "sparkflex",
+      "id": 4,
+      "canbus": null
     },
     "inverted": {
-      "drive": true,
-      "angle": true
+      "drive": false,
+      "angle": false
     },
     "angle": {
-      "type": "sparkmax_neo",
-      "id": 4,
-      "canbus": "canivore"
+      "type": "sparkflex",
+      "id": 3,
+      "canbus": null
     },
     "encoder": {
       "type": "cancoder",
-      "id": 32,
+      "id": 33,
       "canbus": null
     },
-    "absoluteEncoderOffset": 6.504,
+    "absoluteEncoderOffset": 301.7,
     "absoluteEncoderInverted": true
   }

@@ -3,16 +3,16 @@
     "robotMass": 145,
     "wheelGripCoefficientOfFriction": 1.19,
     "currentLimit": {
-      "drive": 77,
-      "angle": 45
+      "drive": 60,
+      "angle": 40
     },
     "conversionFactors": {
       "angle": {
-        "gearRatio": 21.4285714286, 
+        "gearRatio": 6.75, 
         "factor": 360
       },
       "drive": {
-        "diameter": 4,
+        "diameter": 2,
         "gearRatio": 6.75,
         "factor": 0
       }
