@@ -10,7 +10,7 @@
     },
     "inverted": {
       "drive": false,
-      "angle": false
+      "angle": true
     },
     "angle": {
       "type": "sparkflex",
